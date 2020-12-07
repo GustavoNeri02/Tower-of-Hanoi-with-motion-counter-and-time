@@ -1,2 +1,2 @@
-# Torre-de-Han-i-tempo-e-numMovimentos-
-Atividade de Torre de Hanói, utilizando métodos de recursividade e contadores de tempo de execução e movimentos dos discos
+# Tower-of-Hanoi-with-motion-counter-and-time
+Tower of Hanoi activity, using recursion methods and disk motion counter and runtime.
